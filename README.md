@@ -1,6 +1,3 @@
-# Progress-Report-animal-face-recognition
-progress-report-animal-face-recognition created by GitHub Classroom
-
 ## [Group Name: Animal face recognition]()
 
 ## [Group Member:]()
